@@ -8,7 +8,7 @@
 - 💬 苹果粉丝，但不狂热
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltcoffee&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=saltcoffee&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saltcoffee)](https://github.com/saltcoffee/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=saltcoffee)](https://github.com/saltcoffee/github-readme-stats)
