@@ -2,9 +2,6 @@
 
 
 - 🔭 目前主要做iOS开发方面工作
-- 🌱 业余时间写写Go和Ruby
-- 🤔 Dota2爱好者，但已经AFK
-- 💬 苹果粉丝，但不狂热
 
 
 ![](https://github-readme-stats.vercel.app/api?username=saltcoffee&show_icons=true&theme=merko)
