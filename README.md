@@ -8,13 +8,13 @@
 
 <br>
 
-<a href="https://blog.saltcoffee.top">
+<a href="https://blog.redpencil.top">
   <img src="./assets/banner-white-terminal.svg" alt="saltcoffee" width="100%">
 </a>
 
 <br>
 
-[博客](https://blog.saltcoffee.top)   ·   [仓库](https://github.com/saltcoffee?tab=repositories)   ·   [GitHub](https://github.com/saltcoffee)
+[博客](https://blog.redpencil.top)   ·   [仓库](https://github.com/saltcoffee?tab=repositories)   ·   [GitHub](https://github.com/saltcoffee)
 
 <br>
 
