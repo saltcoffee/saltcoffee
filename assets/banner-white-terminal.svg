@@ -5,35 +5,35 @@
 <circle cx="30" cy="30" r="6.5" fill="#FF5F57"/>
 <circle cx="52" cy="30" r="6.5" fill="#FEBC2E"/>
 <circle cx="74" cy="30" r="6.5" fill="#28C840"/>
-<text x="500.0" y="35" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9AA4AE">saltcoffee — zsh</text>
-<text x="36" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0969DA">$</text>
-<text x="58" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0B0C0E">whoami</text>
-<text x="190" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="100" font-family="'Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" fill="#57606A">saltcoffee</text>
-<text x="36" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0969DA">$</text>
-<text x="58" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0B0C0E">role</text>
-<text x="190" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="140" font-family="'Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" fill="#57606A">iOS Developer</text>
-<text x="36" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0969DA">$</text>
-<text x="58" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0B0C0E">langs</text>
-<text x="190" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="180" font-family="'Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" fill="#57606A">Python · TypeScript · Swift</text>
-<text x="36" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0969DA">$</text>
-<text x="58" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0B0C0E">photo</text>
-<text x="190" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="220" font-family="'Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" fill="#57606A">film, mostly</text>
-<text x="36" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0969DA">$</text>
-<text x="58" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0B0C0E">blog</text>
-<text x="190" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="260" font-family="'Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" fill="#57606A">blog.saltcoffee.top</text>
-<text x="36" y="300" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0969DA">$</text>
-<text x="58" y="300" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0B0C0E">dota</text>
-<text x="190" y="300" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="300" font-family="'Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" fill="#57606A">AFK</text>
-<text x="36" y="340" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0969DA">$</text>
-<text x="58" y="340" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0B0C0E">coffee</text>
-<text x="190" y="340" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="340" font-family="'Helvetica Neue',Helvetica,Arial,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" fill="#57606A">salt + espresso</text>
-<text x="36" y="380" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#0969DA">$</text>
+<text x="500.0" y="35" text-anchor="middle" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12" fill="#9AA4AE">saltcoffee — zsh</text>
+<text x="36" y="100" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
+<text x="58" y="100" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">whoami</text>
+<text x="190" y="100" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
+<text x="216" y="100" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">saltcoffee</text>
+<text x="36" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
+<text x="58" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">role</text>
+<text x="190" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
+<text x="216" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">iOS Developer</text>
+<text x="36" y="180" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
+<text x="58" y="180" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">langs</text>
+<text x="190" y="180" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
+<text x="216" y="180" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">Python · TypeScript · Swift</text>
+<text x="36" y="220" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
+<text x="58" y="220" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">photo</text>
+<text x="190" y="220" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
+<text x="216" y="220" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">film, mostly</text>
+<text x="36" y="260" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
+<text x="58" y="260" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">blog</text>
+<text x="190" y="260" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
+<text x="216" y="260" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">blog.saltcoffee.top</text>
+<text x="36" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
+<text x="58" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">dota</text>
+<text x="190" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
+<text x="216" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">AFK</text>
+<text x="36" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
+<text x="58" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">coffee</text>
+<text x="190" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
+<text x="216" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">salt + espresso</text>
+<text x="36" y="380" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
 <rect x="58" y="368" width="9" height="16" rx="1" fill="#0B0C0E"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.52;1" dur="1.2s" repeatCount="indefinite"/></rect>
 </svg>
