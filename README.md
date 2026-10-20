@@ -22,4 +22,4 @@
 
 <br>
 
-<sub>☕ salt + coffee</sub>
+<sub>☕ Photography is passion, Coding is profession</sub>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="412" viewBox="0 0 1000 412" role="img" aria-label="saltcoffee terminal">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="372" viewBox="0 0 1000 372" role="img" aria-label="saltcoffee terminal">
 <title>saltcoffee — terminal</title>
-<rect x="0.5" y="0.5" width="999" height="411" rx="14" fill="#FFFFFF" stroke="#E4E7EB"/>
+<rect x="0.5" y="0.5" width="999" height="371" rx="14" fill="#FFFFFF" stroke="#E4E7EB"/>
 <path d="M0.5,60 L0.5,15 A14,14 0 0 1 14.5,1 L985,1 A14,14 0 0 1 999,15 L999,60 Z" fill="#F6F8FA" stroke="#E4E7EB"/>
 <circle cx="30" cy="30" r="6.5" fill="#FF5F57"/>
 <circle cx="52" cy="30" r="6.5" fill="#FEBC2E"/>
@@ -30,6 +30,6 @@
 <text x="58" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">dota</text>
 <text x="190" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
 <text x="216" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">AFK</text>
-<text x="36" y="380" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
-<rect x="58" y="368" width="9" height="16" rx="1" fill="#0B0C0E"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.52;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<text x="36" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
+<rect x="58" y="326" width="9" height="19" rx="1.5" fill="#0B0C0E"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.52;1" dur="1.2s" repeatCount="indefinite"/></rect>
 </svg>
