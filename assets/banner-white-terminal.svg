@@ -13,7 +13,7 @@
 <text x="36" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
 <text x="58" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">role</text>
 <text x="190" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">iOS Developer</text>
+<text x="216" y="140" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">AI Developer</text>
 <text x="36" y="180" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
 <text x="58" y="180" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">langs</text>
 <text x="190" y="180" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
@@ -30,10 +30,6 @@
 <text x="58" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">dota</text>
 <text x="190" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
 <text x="216" y="300" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">AFK</text>
-<text x="36" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
-<text x="58" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0B0C0E">coffee</text>
-<text x="190" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#C4CBD3">›</text>
-<text x="216" y="340" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#57606A">salt + espresso</text>
 <text x="36" y="380" font-family="'Fira Code','FiraCode Nerd Font',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="15" fill="#0969DA">$</text>
 <rect x="58" y="368" width="9" height="16" rx="1" fill="#0B0C0E"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.52;1" dur="1.2s" repeatCount="indefinite"/></rect>
 </svg>

@@ -22,4 +22,4 @@
 
 <br>
 
-<sub>☕ salt + espresso</sub>
+<sub>☕ salt + coffee</sub>
