@@ -8,13 +8,13 @@
 
 <br>
 
-<a href="https://blog.redpencil.top">
+<a href="https://blog.twomelon.com">
   <img src="./assets/banner-white-terminal.svg" alt="saltcoffee" width="100%">
 </a>
 
 <br>
 
-[Blog](https://blog.redpencil.top) · [Instagram](https://www.instagram.com/loveplato/) · [GitHub](https://github.com/saltcoffee)
+[Blog](https://blog.twomelon.com) · [Instagram](https://www.instagram.com/loveplato/) · [GitHub](https://github.com/saltcoffee)
 
 <br>
 
