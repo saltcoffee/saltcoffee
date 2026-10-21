@@ -14,7 +14,7 @@
 
 <br>
 
-[博客](https://blog.redpencil.top) · [Instagram](https://www.instagram.com/loveplato/) · [GitHub](https://github.com/saltcoffee)
+[Blog](https://blog.redpencil.top) · [Instagram](https://www.instagram.com/loveplato/) · [GitHub](https://github.com/saltcoffee)
 
 <br>
 
