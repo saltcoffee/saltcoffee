@@ -18,7 +18,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saltcoffee&layout=compact&bg_color=FFFFFF&title_color=0B0C0E&text_color=57606A&border_color=E4E7EB)](https://github.com/saltcoffee/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=saltcoffee&layout=compact&bg_color=FFFFFF&title_color=0B0C0E&text_color=57606A&border_color=E4E7EB)](https://github.com/saltcoffee)
 
 <br>
 
